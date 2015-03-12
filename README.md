@@ -1,3 +1,3 @@
-# Practice_Android_Studio
+# Practice Android Studio
 
-Investigate on how to implement QR Scanner
+This repository is a note of my first attempt to building Android app with Android Studio.
